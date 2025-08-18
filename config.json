@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": " [ / ] trum box ",
+    "AMDIN_NAME": "Huynh Tuan",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/huynh.tuan.536728",
     "PREFIX": ".",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "61556850483806",
         ""
     ],
     "NDH": [
-        "",
+        "61556850483806",
         ""
     ],
     "autoCleanCache": {
