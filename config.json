@@ -1,13 +1,13 @@
 {
     "language": "vi",
     "notiGroup": true,
-    "MAINTENANCE": false,
-    "allowInbox": false,
+    "MAINTENANCE": true,
+    "allowInbox": true,
     "BOTNAME": " 💢 ",
     "AMDIN_NAME": "Huynh Tuan",
     "keyRent": "Lunar",
     "FACEBOOK_ADMIN": "https://www.facebook.com/huynh.tuan.536728",
-    "PREFIX": ".",
+    "PREFIX": "/",
     "box_admin": "9987173418017359",
     "ADMINBOT": [
         "61556850483806",
